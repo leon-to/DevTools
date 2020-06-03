@@ -3,3 +3,20 @@
 Website/Source
 Linux Installation Command
 --------------
+
+##############
+### PYTHON ###
+##############
+//update linux package manager
+sudo apt update 
+sudo apt -y upgrade
+
+//check python ver
+python3 -V
+
+//install python pip
+sudo apt install -y python3-pip
+
+//robust setup for python
+sudo apt install -y build-essential libssl-dev libffi-dev python3-dev
+
