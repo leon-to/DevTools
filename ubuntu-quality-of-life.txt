@@ -1,1 +1,2 @@
-
+### TERMINAL ON STARTUP ###
+window key -> startup program -> [name: terminal, command:gnome-terminal]
